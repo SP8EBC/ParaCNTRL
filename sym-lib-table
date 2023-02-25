@@ -1,0 +1,10 @@
+(sym_lib_table
+  (lib (name "murata_NFE31PT")(type "Legacy")(uri "${KIPRJMOD}/NFE31PT222Z1E9L/NFE31PT222Z1E9L.lib")(options "")(descr ""))
+  (lib (name "murata_PLT10HH")(type "Legacy")(uri "${KIPRJMOD}/PLT10HH1026R0PNL/PLT10HH1026R0PNL.lib")(options "")(descr ""))
+  (lib (name "paratnc_cp_import")(type "Legacy")(uri "${KIPRJMOD}/paratnc_cp-eagle-import.lib")(options "")(descr ""))
+  (lib (name "sterownik_eagle_import")(type "KiCad")(uri "${KIPRJMOD}/sterownik-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "jk_flipflop")(type "KiCad")(uri "${KIPRJMOD}/jk_flipflop/jk_flipflop.kicad_sym")(options "")(descr ""))
+  (lib (name "and_or_xor")(type "KiCad")(uri "${KIPRJMOD}/and_or_xor_gates/and_or_xor.kicad_sym")(options "")(descr ""))
+  (lib (name "relays")(type "KiCad")(uri "${KIPRJMOD}/relays/relays.kicad_sym")(options "")(descr ""))
+  (lib (name "74HC244D")(type "KiCad")(uri "${KIPRJMOD}/74HC244D_652/74HC244D_652.kicad_sym")(options "")(descr ""))
+)

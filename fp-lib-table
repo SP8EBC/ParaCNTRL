@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "paratnc_cp")(type "KiCad")(uri "${KIPRJMOD}/paratnc_cp.pretty")(options "")(descr ""))
+  (lib (name "sterownik")(type "KiCad")(uri "${KIPRJMOD}/sterownik.pretty")(options "")(descr ""))
+  (lib (name "relays")(type "KiCad")(uri "${KIPRJMOD}/relays/relays.pretty")(options "")(descr ""))
+  (lib (name "74HC244D_652")(type "KiCad")(uri "${KIPRJMOD}/74HC244D_652")(options "")(descr ""))
+  (lib (name "NFE31PT")(type "KiCad")(uri "${KIPRJMOD}/NFE31PT222Z1E9L")(options "")(descr ""))
+)

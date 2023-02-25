@@ -1,0 +1,16 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 9daeff65-70d2-4a03-bc0e-1da4b25cdb26)
+
+  (paper "A4")
+
+  (title_block
+    (date "2023-02-23")
+    (rev "A")
+    (company "ML Elektronika Mateusz Lubecki")
+  )
+
+  (lib_symbols
+  )
+
+)
