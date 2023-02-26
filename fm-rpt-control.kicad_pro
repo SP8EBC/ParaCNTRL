@@ -328,6 +328,10 @@
     [
       "e074ccf4-ead7-43c5-8afc-65e6a207d871",
       "AudioFilters"
+    ],
+    [
+      "78e4f606-ccca-418a-a2ce-b312716883d6",
+      "Power"
     ]
   ],
   "text_variables": {}

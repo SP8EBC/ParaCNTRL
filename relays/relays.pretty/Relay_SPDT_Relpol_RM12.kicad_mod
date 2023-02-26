@@ -1,6 +1,6 @@
 (footprint "Relay_SPDT_Relpol_RM12" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 63F9D5E8)
+  (tedit 63FB2AFB)
   (descr "IM Signal Relay SPDT")
   (tags "Relay SPDT IM-relay")
   (attr through_hole)
@@ -39,7 +39,7 @@
   (fp_line (start 9.017 14.097) (end -1.27 14.097) (layer "F.Fab") (width 0.1) (tstamp cd4a160f-c748-42d4-a6ec-e22ee0fe3a8c))
   (pad "11" thru_hole circle (at 0.127 -9.398) (size 2.5 2.5) (drill 1.4) (layers *.Cu *.Mask) (tstamp 15c7ab61-e965-42ec-886f-12a86e355368))
   (pad "12" thru_hole circle (at 7.62 -6.223) (size 2.5 2.5) (drill 1.4) (layers *.Cu *.Mask) (tstamp 2c13bc98-131a-446d-ad08-d1434b490c39))
-  (pad "12" thru_hole circle (at 7.62 -12.573) (size 2.5 2.5) (drill 1.4) (layers *.Cu *.Mask) (tstamp 6e416a78-df14-48ee-9842-e6e24081191e))
+  (pad "14" thru_hole circle (at 7.62 -12.573) (size 2.5 2.5) (drill 1.4) (layers *.Cu *.Mask) (tstamp 6e416a78-df14-48ee-9842-e6e24081191e))
   (pad "A1" thru_hole circle (at 0.127 12.7) (size 2.5 2.5) (drill 1.4) (layers *.Cu *.Mask) (tstamp 1db81b4b-314d-4419-9024-2d9dd4c3b6a8))
   (pad "A2" thru_hole circle (at 7.62 12.7) (size 2.5 2.5) (drill 1.4) (layers *.Cu *.Mask) (tstamp 9494a975-f363-4cbd-a0f7-369f73a10ddc))
   (model "${KICAD6_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPDT_HJR-4102.wrl"
