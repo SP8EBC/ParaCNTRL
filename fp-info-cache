@@ -1,4 +1,4 @@
-20265862483653498
+20269218986862335
 74HC244D_652
 SOIC127P1032X265-20N
 
@@ -56510,6 +56510,20 @@ solder jumper open
 0
 5
 3
+LED
+LED_MENTOR_1801
+ LED; in housing; red/yellow; 3mm; No.of diodes: 2; 20mA; 60° 
+RGB LED Piranha Super-Flux BetLux
+0
+4
+4
+LED
+LED_MENTOR_1882
+ LED; in housing; red/green/yellow; 3mm; No.of diodes: 3; 20mA 
+RGB LED Piranha Super-Flux BetLux
+0
+4
+4
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -86000,7 +86014,7 @@ IM Signal Relay SPDT
 Relay SPDT IM-relay
 0
 5
-4
+5
 sterownik
 1X03
 
