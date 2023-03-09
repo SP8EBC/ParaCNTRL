@@ -5,4 +5,6 @@
   (lib (name "74HC244D_652")(type "KiCad")(uri "${KIPRJMOD}/74HC244D_652")(options "")(descr ""))
   (lib (name "NFE31PT")(type "KiCad")(uri "${KIPRJMOD}/NFE31PT222Z1E9L")(options "")(descr ""))
   (lib (name "LED")(type "KiCad")(uri "${KIPRJMOD}/LED/LED.pretty")(options "")(descr ""))
+  (lib (name "w_conn_av")(type "KiCad")(uri "${KIPRJMOD}/w_conn_av.pretty")(options "")(descr ""))
+  (lib (name "w_conn_d-sub")(type "KiCad")(uri "${KIPRJMOD}/w_conn_d-sub.pretty")(options "")(descr ""))
 )
