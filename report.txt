@@ -1,0 +1,474 @@
+Info: Processing symbol 'R62:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R73:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R72:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R71:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R70:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R69:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R68:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R67:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R66:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R65:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R64:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R63:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R74:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R61:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R60:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R59:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R58:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R57:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R56:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R55:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R54:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R53:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R52:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R85:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R96:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R95:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R94:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R93:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R92:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R91:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R90:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R89:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R88:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R87:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R86:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R51:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R84:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R83:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R82:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R81:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R80:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R79:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R78:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R77:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R76:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R75:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R17:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R28:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R27:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R26:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R25:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R24:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R23:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R22:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R21:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R20:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R19:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R18:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R29:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R16:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R15:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R14:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R13:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R12:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R11:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R10:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R9:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R8:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R7:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R40:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R50:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R49:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R48:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R47:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R46:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R45:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R44:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R43:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R42:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R41:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R97:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R39:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R38:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R37:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R36:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R35:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R34:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R33:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R32:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R31:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R30:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'U8:Package_SO:TSOP-5_1.65x3.05mm_P0.95mm'.
+Info: Processing symbol 'U19:Package_SO:SOIC-14_3.9x8.7mm_P1.27mm'.
+Info: Processing symbol 'U18:SOIC127P1032X265-20N'.
+Info: Processing symbol 'U17:Package_SO:SO-14_3.9x8.65mm_P1.27mm'.
+Info: Processing symbol 'U16:Package_SO:SO-14_3.9x8.65mm_P1.27mm'.
+Info: Processing symbol 'U15:Package_SO:SO-14_3.9x8.65mm_P1.27mm'.
+Info: Processing symbol 'U14:Package_SO:SOIC-14_3.9x8.7mm_P1.27mm'.
+Info: Processing symbol 'U13:Package_TO_SOT_SMD:SOT-353_SC-70-5_Handsoldering'.
+Info: Processing symbol 'U12:Package_SO:SOIC-14_3.9x8.7mm_P1.27mm'.
+Info: Processing symbol 'U11:Package_TO_SOT_SMD:SOT-353_SC-70-5_Handsoldering'.
+Info: Processing symbol 'U10:Package_TO_SOT_SMD:SOT-353_SC-70-5_Handsoldering'.
+Info: Processing symbol 'U9:Package_TO_SOT_SMD:SOT-353_SC-70-5_Handsoldering'.
+Info: Processing symbol 'U20:Package_SO:SO-14_3.9x8.65mm_P1.27mm'.
+Info: Processing symbol 'U7:Package_DIP:SMDIP-4_W9.53mm'.
+Info: Processing symbol 'U6:Package_DIP:SMDIP-4_W9.53mm'.
+Info: Processing symbol 'U5:SOIC127P1032X265-20N'.
+Info: Processing symbol 'U4:Package_DIP:SMDIP-4_W9.53mm'.
+Info: Processing symbol 'U3:Package_DIP:SMDIP-4_W9.53mm'.
+Info: Processing symbol 'U2:Package_DIP:SMDIP-4_W9.53mm'.
+Info: Processing symbol 'U1:Package_DIP:SMDIP-4_W9.53mm'.
+Info: Processing symbol 'TR6:paratnc_cp:NORMAL'.
+Info: Processing symbol 'TR5:paratnc_cp:NORMAL'.
+Info: Processing symbol 'TR4:paratnc_cp:NORMAL'.
+Info: Processing symbol 'U31:Package_SO:SO-8_3.9x4.9mm_P1.27mm'.
+Info: Processing symbol 'X2:sterownik:MAB5SH'.
+Info: Processing symbol 'X1:sterownik:MAB8SH'.
+Info: Processing symbol 'U40:Package_TO_SOT_THT:TO-220-2_Horizontal_TabDown'.
+Info: Processing symbol 'U39:Package_TO_SOT_THT:TO-220-2_Horizontal_TabDown'.
+Info: Processing symbol 'U38:Package_SO:SOIC-14_3.9x8.7mm_P1.27mm'.
+Info: Processing symbol 'U37:Package_SO:SOIC-8_3.9x4.9mm_P1.27mm'.
+Info: Processing symbol 'U36:Package_SO:SOIC-8_3.9x4.9mm_P1.27mm'.
+Info: Processing symbol 'U35:Package_SO:SOIC-8_3.9x4.9mm_P1.27mm'.
+Info: Processing symbol 'U34:Package_SO:SOIC-8_3.9x4.9mm_P1.27mm'.
+Info: Processing symbol 'U33:Package_SO:SOIC-8_3.9x4.9mm_P1.27mm'.
+Info: Processing symbol 'U32:Package_SO:SOIC-8_3.9x4.9mm_P1.27mm'.
+Info: Processing symbol 'TR3:paratnc_cp:NORMAL'.
+Info: Processing symbol 'U30:Package_DIP:SMDIP-4_W9.53mm'.
+Info: Processing symbol 'U29:SOIC127P1032X265-20N'.
+Info: Processing symbol 'U28:Package_DIP:SMDIP-4_W9.53mm'.
+Info: Processing symbol 'U27:Package_DIP:SMDIP-4_W9.53mm'.
+Info: Processing symbol 'U26:Package_SO:SOIC-8_3.9x4.9mm_P1.27mm'.
+Info: Processing symbol 'U25:Package_SO:SOIC-14_3.9x8.7mm_P1.27mm'.
+Info: Processing symbol 'U24:Package_SO:SO-14_3.9x8.65mm_P1.27mm'.
+Info: Processing symbol 'U23:Package_SO:SO-14_3.9x8.65mm_P1.27mm'.
+Info: Processing symbol 'U22:Package_SO:SO-14_3.9x8.65mm_P1.27mm'.
+Info: Processing symbol 'U21:Package_SO:SO-14_3.9x8.65mm_P1.27mm'.
+Info: Processing symbol 'R108:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'RN1:Resistor_THT:R_Array_SIP9'.
+Info: Processing symbol 'R118:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R117:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R116:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R115:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R114:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R113:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R112:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R111:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R110:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R109:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'RV1:Potentiometer_SMD:Potentiometer_Bourns_3314J_Vertical'.
+Info: Processing symbol 'R107:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R106:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R105:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R104:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R103:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R102:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R101:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R100:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R99:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R98:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'RV12:Potentiometer_THT:Potentiometer_Alps_RK163_Single_Horizontal'.
+Info: Processing symbol 'TR2:paratnc_cp:NORMAL'.
+Info: Processing symbol 'TR1:paratnc_cp:NORMAL'.
+Info: Processing symbol 'SW6:Button_Switch_SMD:SW_DIP_SPSTx04_Slide_Copal_CHS-04B_W7.62mm_P1.27mm'.
+Info: Processing symbol 'SW5:sterownik:TL3XWO'.
+Info: Processing symbol 'SW4:sterownik:TL4XWO'.
+Info: Processing symbol 'SW3:sterownik:TL3XWO'.
+Info: Processing symbol 'SW2:sterownik:TL3XWO'.
+Info: Processing symbol 'SW1:sterownik:TL3XWO'.
+Info: Processing symbol 'RV14:Potentiometer_THT:Potentiometer_Alps_RK163_Single_Horizontal'.
+Info: Processing symbol 'RV13:Potentiometer_SMD:Potentiometer_Bourns_3314J_Vertical'.
+Info: Processing symbol 'C1:Capacitor_THT:C_Radial_D6.3mm_H7.0mm_P2.50mm'.
+Info: Processing symbol 'RV11:Potentiometer_SMD:Potentiometer_Bourns_3314J_Vertical'.
+Info: Processing symbol 'RV10:Potentiometer_SMD:Potentiometer_Bourns_3314J_Vertical'.
+Info: Processing symbol 'RV9:Potentiometer_SMD:Potentiometer_Bourns_3314J_Vertical'.
+Info: Processing symbol 'RV8:Potentiometer_SMD:Potentiometer_Bourns_3314J_Vertical'.
+Info: Processing symbol 'RV7:Potentiometer_THT:Potentiometer_Alps_RK163_Single_Horizontal'.
+Info: Processing symbol 'RV6:Potentiometer_SMD:Potentiometer_Bourns_3314J_Vertical'.
+Info: Processing symbol 'RV5:Potentiometer_SMD:Potentiometer_Bourns_3314J_Vertical'.
+Info: Processing symbol 'RV4:Potentiometer_SMD:Potentiometer_Bourns_3314J_Vertical'.
+Info: Processing symbol 'RV3:Potentiometer_SMD:Potentiometer_Bourns_3314J_Vertical'.
+Info: Processing symbol 'RV2:Potentiometer_SMD:Potentiometer_Bourns_3314J_Vertical'.
+Info: Processing symbol 'D2:LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'D11:Package_TO_SOT_SMD:SOT-23-6'.
+Info: Processing symbol 'D10:Package_TO_SOT_SMD:SOT-23-6'.
+Info: Processing symbol 'D9:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'D8:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'D7:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'D6:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'D5:Package_TO_SOT_SMD:SOT-23-6'.
+Info: Processing symbol 'D4:LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'D3:LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'D12:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'D1:LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'C58:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C57:Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B_Pad1.50x2.35mm_HandSolder'.
+Info: Processing symbol 'C56:Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B_Pad1.50x2.35mm_HandSolder'.
+Info: Processing symbol 'C55:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C54:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C16:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C17:Capacitor_Tantalum_SMD:CP_EIA-7343-31_Kemet-D_Pad2.25x2.55mm_HandSolder'.
+Info: Processing symbol 'C15:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'IC3:Package_SO:SO-16_3.9x9.9mm_P1.27mm'.
+Info: Processing symbol 'C8:Capacitor_Tantalum_SMD:CP_EIA-7343-31_Kemet-D_Pad2.25x2.55mm_HandSolder'.
+Info: Processing symbol 'C9:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C10:Capacitor_THT:C_Radial_D6.3mm_H7.0mm_P2.50mm'.
+Info: Processing symbol 'IC2:sterownik:SO14'.
+Info: Processing symbol 'C11:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C12:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C13:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C14:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C53:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'IC1:Package_SO:SO-14_3.9x8.65mm_P1.27mm'.
+Info: Processing symbol 'F3:Fuse:Fuse_2010_5025Metric_Pad1.52x2.65mm_HandSolder'.
+Info: Processing symbol 'F2:Fuse:Fuse_2010_5025Metric_Pad1.52x2.65mm_HandSolder'.
+Info: Processing symbol 'F1:Fuse:Fuse_2010_5025Metric_Pad1.52x2.65mm_HandSolder'.
+Info: Processing symbol 'D16:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'D15:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'D14:LED:LED_MENTOR_1882'.
+Info: Processing symbol 'D13:LED:LED_MENTOR_1801'.
+Info: Processing symbol 'C20:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C36:Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B_Pad1.50x2.35mm_HandSolder'.
+Info: Processing symbol 'C35:Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B_Pad1.50x2.35mm_HandSolder'.
+Info: Processing symbol 'C34:Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B_Pad1.50x2.35mm_HandSolder'.
+Info: Processing symbol 'C33:Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B_Pad1.50x2.35mm_HandSolder'.
+Info: Processing symbol 'C32:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C31:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C30:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C29:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C19:Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B_Pad1.50x2.35mm_HandSolder'.
+Info: Processing symbol 'C37:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C28:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C27:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C26:Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B_Pad1.50x2.35mm_HandSolder'.
+Info: Processing symbol 'C25:Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B_Pad1.50x2.35mm_HandSolder'.
+Info: Processing symbol 'C24:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C21:Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder'.
+Info: Processing symbol 'C23:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C22:Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B_Pad1.50x2.35mm_HandSolder'.
+Info: Processing symbol 'C46:Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder'.
+Info: Processing symbol 'C52:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C51:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C18:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C50:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'R6:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'C49:Capacitor_THT:CP_Radial_D8.0mm_P3.50mm'.
+Info: Processing symbol 'C48:Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B_Pad1.50x2.35mm_HandSolder'.
+Info: Processing symbol 'C47:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'FL1:FIL_NFE31PT222Z1E9L'.
+Info: Processing symbol 'C45:Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder'.
+Info: Processing symbol 'C44:Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B_Pad1.50x2.35mm_HandSolder'.
+Info: Processing symbol 'C43:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C42:Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B_Pad1.50x2.35mm_HandSolder'.
+Info: Processing symbol 'C41:Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder'.
+Info: Processing symbol 'C40:Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder'.
+Info: Processing symbol 'C39:Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder'.
+Info: Processing symbol 'C38:Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder'.
+Info: Processing symbol 'C2:Capacitor_THT:C_Radial_D6.3mm_H7.0mm_P2.50mm'.
+Info: Processing symbol 'IC4:Package_SO:SO-14_3.9x8.65mm_P1.27mm'.
+Info: Processing symbol 'C7:Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B_Pad1.50x2.35mm_HandSolder'.
+Info: Processing symbol 'C6:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C5:Capacitor_THT:C_Radial_D6.3mm_H7.0mm_P2.50mm'.
+Info: Processing symbol 'K2:relays:Relay_SPDT_Relpol_RM12'.
+Info: Processing symbol 'IC5:sterownik:H08C'.
+Info: Processing symbol 'K1:relays:Relay_SPDT_Relpol_RM12'.
+Info: Processing symbol 'IC6:Package_SO:SO-14_3.9x8.65mm_P1.27mm'.
+Info: Processing symbol 'J9:Connector_BarrelJack:BarrelJack_GCT_DCJ200-10-A_Horizontal'.
+Info: Processing symbol 'ACC1:Connector_PinHeader_2.54mm:PinHeader_2x15_P2.54mm_Vertical'.
+Info: Processing symbol 'R5:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'J8:Connector_Dsub:DSUB-9_Female_Horizontal_P2.77x2.84mm_EdgePinOffset4.94mm_Housed_MountingHolesOffset7.48mm'.
+Info: Processing symbol 'J7:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical'.
+Info: Processing symbol 'J1:Connector_Dsub:DSUB-9_Female_Horizontal_P2.77x2.84mm_EdgePinOffset4.94mm_Housed_MountingHolesOffset7.48mm'.
+Info: Processing symbol 'J6:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical'.
+Info: Processing symbol 'J5:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical'.
+Info: Processing symbol 'J2:Connector_Dsub:DSUB-9_Female_Horizontal_P2.77x2.84mm_EdgePinOffset4.94mm_Housed_MountingHolesOffset7.48mm'.
+Info: Processing symbol 'C4:Capacitor_THT:C_Radial_D6.3mm_H7.0mm_P2.50mm'.
+Info: Processing symbol 'C3:Capacitor_THT:C_Radial_D6.3mm_H7.0mm_P2.50mm'.
+Info: Processing symbol 'J4:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical'.
+Info: Processing symbol 'J3:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical'.
+Info: Processing symbol 'R4:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R3:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R2:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R1:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'Q7:Package_TO_SOT_SMD:SOT-23'.
+Info: Processing symbol 'Q6:Package_TO_SOT_SMD:SOT-23'.
+Info: Processing symbol 'Q5:Package_TO_SOT_SMD:SOT-23'.
+Info: Processing symbol 'Q4:Package_TO_SOT_SMD:SOT-23'.
+Info: Processing symbol 'Q3:Package_TO_SOT_SMD:SOT-23'.
+Info: Processing symbol 'Q2:Package_TO_SOT_SMD:SOT-23'.
+Info: Processing symbol 'Q1:Package_TO_SOT_SMD:SOT-23'.
+Info: Processing symbol 'L1:Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Connected K2 pin 14 to unconnected-(K2-Pad14).
+Connected U8 pin 5 to +5V.
+Connected K2 pin A1 to GND.
+Connected K2 pin A2 to Net-(D9-Pad1).
+Removed unused footprint K2.
+Changed U18 footprint from '74HC244D_652:SOIC127P1032X265-20N' to 'SOIC127P1032X265-20N'.
+Connected IC3 pin 6 to /DPX_TX_TAIL_CLR.
+Connected K2 pin 11 to SPX_RX_ISOL_SW.
+Updated U8 properties.
+Updated U8 symbol association from  to /afe11328-74c2-44e1-abf1-8618298f1c40.
+Changed U8 value from TSOP-5_1.65x3.05mm_P0.95mm to 74AHC1G08.
+Changed REF** reference designator to U8.
+Connected U8 pin 2 to /SPX_ENABLE_CNTRL.
+Added U8 (footprint 'Package_SO:TSOP-5_1.65x3.05mm_P0.95mm').
+Add net unconnected-(K2-Pad14).
+Connected K2 pin 12 to SPX_RX_ISOL.
+Connected U8 pin 1 to /SPX_CTCSS_DET_ISOL.
+Changed U5 footprint from '74HC244D_652:SOIC127P1032X265-20N' to 'SOIC127P1032X265-20N'.
+Updated K2 properties.
+Updated K2 symbol association from  to /7784002c-395f-4f3c-9e2a-048c3040d852.
+Connected U8 pin 3 to GND.
+Connected U8 pin 4 to Net-(U11-Pad2).
+Changed K2 value from Relay_SPDT_Relpol_RM12 to RM12__SPDT.
+Changed REF** reference designator to K2.
+Added K2 (footprint 'relays:Relay_SPDT_Relpol_RM12').
+Added IC3 (footprint 'Package_SO:SO-16_3.9x9.9mm_P1.27mm').
+Changed FL1 footprint from 'NFE31PT:FIL_NFE31PT222Z1E9L' to 'FIL_NFE31PT222Z1E9L'.
+Connected IC3 pin 16 to +5V.
+Connected IC3 pin 15 to /CNTR3.
+Changed U29 footprint from '74HC244D_652:SOIC127P1032X265-20N' to 'SOIC127P1032X265-20N'.
+Connected IC3 pin 14 to Net-(IC3-Pad14).
+Connected IC3 pin 13 to /CNTR2.
+Connected IC3 pin 12 to /CNTR1.
+Connected IC3 pin 11 to Net-(IC3-Pad11).
+Connected IC3 pin 10 to /CNTR0.
+Connected IC3 pin 8 to GND.
+Connected IC3 pin 7 to unconnected-(IC3-Pad7).
+Connected IC3 pin 9 to Net-(IC3-Pad9).
+Changed REF** reference designator to IC3.
+Changed IC3 value from SO-16_3.9x9.9mm_P1.27mm to 74HC85D.
+Updated IC3 symbol association from  to /899bb095-954f-42d4-ab77-6eddb9fe93b0.
+Updated IC3 properties.
+Connected IC3 pin 1 to Net-(IC3-Pad1).
+Connected IC3 pin 2 to GND.
+Connected IC3 pin 3 to +5V.
+Connected IC3 pin 4 to GND.
+Add net unconnected-(IC3-Pad5).
+Connected IC3 pin 5 to unconnected-(IC3-Pad5).
+Add net unconnected-(IC3-Pad7).
+Warning: No net found for symbol U25 pin 5.
+Warning: No net found for symbol U24 pin 5.
+Warning: No net found for symbol U24 pin 4.
+Warning: No net found for symbol U24 pin 13.
+Warning: No net found for symbol U38 pin 11.
+Warning: No net found for symbol U38 pin 12.
+Warning: No net found for symbol U22 pin 13.
+Warning: No net found for symbol U22 pin 12.
+Warning: No net found for symbol U22 pin 11.
+Warning: No net found for symbol U22 pin 10.
+Warning: No net found for symbol U22 pin 9.
+Warning: No net found for symbol U22 pin 8.
+Warning: No net found for symbol U38 pin 13.
+Warning: No net found for symbol U24 pin 6.
+Warning: No net found for symbol U25 pin 6.
+Warning: No net found for symbol U25 pin 8.
+Warning: No net found for symbol U25 pin 9.
+Warning: No net found for symbol U22 pin 6.
+Warning: No net found for symbol U22 pin 5.
+Warning: No net found for symbol U22 pin 4.
+Warning: No net found for symbol U25 pin 13.
+Warning: No net found for symbol U21 pin 13.
+Warning: No net found for symbol U21 pin 12.
+Warning: No net found for symbol U25 pin 10.
+Warning: No net found for symbol U25 pin 11.
+Warning: No net found for symbol U25 pin 12.
+Warning: No net found for symbol U35 pin 5.
+Warning: No net found for symbol U35 pin 4.
+Warning: No net found for symbol SW5 pin M1.
+Warning: No net found for symbol U35 pin 7.
+Warning: No net found for symbol U35 pin 8.
+Warning: No net found for symbol U37 pin 5.
+Warning: No net found for symbol U37 pin 6.
+Warning: No net found for symbol U37 pin 7.
+Warning: No net found for symbol U38 pin 3.
+Warning: No net found for symbol U38 pin 4.
+Warning: No net found for symbol U38 pin 5.
+Warning: No net found for symbol U38 pin 6.
+Warning: No net found for symbol U35 pin 6.
+Warning: No net found for symbol U34 pin 5.
+Warning: No net found for symbol U24 pin 12.
+Warning: No net found for symbol U34 pin 6.
+Warning: No net found for symbol U24 pin 11.
+Warning: No net found for symbol U34 pin 7.
+Warning: No net found for symbol U24 pin 10.
+Warning: No net found for symbol U38 pin 8.
+Warning: No net found for symbol U38 pin 9.
+Warning: No net found for symbol U24 pin 9.
+Warning: No net found for symbol U38 pin 10.
+Warning: No net found for symbol U24 pin 8.
+Warning: No net found for symbol IC2 pin 12.
+Warning: No net found for symbol IC4 pin 8.
+Warning: No net found for symbol IC4 pin 6.
+Warning: No net found for symbol IC4 pin 5.
+Warning: No net found for symbol IC4 pin 4.
+Warning: No net found for symbol IC4 pin 3.
+Warning: No net found for symbol IC4 pin 2.
+Warning: No net found for symbol IC4 pin 1.
+Warning: No net found for symbol IC2 pin 13.
+Warning: No net found for symbol IC4 pin 9.
+Warning: No net found for symbol IC2 pin 11.
+Warning: No net found for symbol IC2 pin 10.
+Warning: No net found for symbol IC2 pin 9.
+Warning: No net found for symbol IC2 pin 8.
+Warning: No net found for symbol IC1 pin 11.
+Warning: No net found for symbol IC1 pin 10.
+Warning: No net found for symbol IC1 pin 9.
+Warning: No net found for symbol IC1 pin 8.
+Warning: No net found for symbol IC6 pin 12.
+Warning: No net found for symbol J9 pin 3.
+Warning: No net found for symbol J8 pin 0.
+Warning: No net found for symbol J8 pin 0.
+Warning: No net found for symbol J2 pin 0.
+Warning: No net found for symbol J2 pin 0.
+Warning: No net found for symbol J1 pin 0.
+Warning: No net found for symbol J1 pin 0.
+Warning: No net found for symbol IC6 pin 13.
+Warning: No net found for symbol U19 pin 13.
+Warning: No net found for symbol IC6 pin 4.
+Warning: No net found for symbol IC6 pin 3.
+Warning: No net found for symbol IC6 pin 2.
+Warning: No net found for symbol IC6 pin 1.
+Warning: No net found for symbol IC4 pin 13.
+Warning: No net found for symbol IC4 pin 12.
+Warning: No net found for symbol IC4 pin 11.
+Warning: No net found for symbol IC4 pin 10.
+Warning: No net found for symbol U15 pin 11.
+Warning: No net found for symbol U14 pin 9.
+Warning: No net found for symbol U14 pin 10.
+Warning: No net found for symbol U14 pin 11.
+Warning: No net found for symbol U14 pin 12.
+Warning: No net found for symbol U14 pin 13.
+Warning: No net found for symbol U15 pin 8.
+Warning: No net found for symbol U15 pin 9.
+Warning: No net found for symbol U15 pin 10.
+Warning: No net found for symbol IC1 pin 5.
+Warning: No net found for symbol U15 pin 12.
+Warning: No net found for symbol U15 pin 13.
+Warning: No net found for symbol U19 pin 8.
+Warning: No net found for symbol U19 pin 9.
+Warning: No net found for symbol U19 pin 10.
+Warning: No net found for symbol U19 pin 11.
+Warning: No net found for symbol U19 pin 12.
+Warning: No net found for symbol U21 pin 11.
+Warning: No net found for symbol U13 pin 1.
+Warning: No net found for symbol IC1 pin 6.
+Warning: No net found for symbol SW1 pin M1.
+Warning: No net found for symbol SW1 pin M2.
+Warning: No net found for symbol SW2 pin M1.
+Warning: No net found for symbol SW2 pin M2.
+Warning: No net found for symbol SW3 pin M1.
+Warning: No net found for symbol SW3 pin M2.
+Warning: No net found for symbol SW4 pin 1.
+Warning: No net found for symbol SW4 pin 2.
+Warning: No net found for symbol SW4 pin M1.
+Warning: No net found for symbol U14 pin 8.
+Warning: No net found for symbol U11 pin 1.
+Warning: No net found for symbol U10 pin 1.
+Warning: No net found for symbol U9 pin 1.
+Warning: No net found for symbol SW5 pin M2.
+Warning: No net found for symbol SW4 pin M2.
+Warning: No net found for symbol SW4 pin 3.
+Error: Cannot add IC5 (footprint 'sterownik:H08C' not found).
+Error: U31 pad 14 not found in Package_SO:SO-8_3.9x4.9mm_P1.27mm.
+Error: U31 pad 12 not found in Package_SO:SO-8_3.9x4.9mm_P1.27mm.
+Error: U31 pad 13 not found in Package_SO:SO-8_3.9x4.9mm_P1.27mm.
+Error: U31 pad 10 not found in Package_SO:SO-8_3.9x4.9mm_P1.27mm.
+Error: U31 pad 11 not found in Package_SO:SO-8_3.9x4.9mm_P1.27mm.
+Error: U31 pad 9 not found in Package_SO:SO-8_3.9x4.9mm_P1.27mm.
+Error: U39 pad 3 not found in Package_TO_SOT_THT:TO-220-2_Horizontal_TabDown.
+Error: U40 pad 3 not found in Package_TO_SOT_THT:TO-220-2_Horizontal_TabDown.
+
+
+Info: Total warnings: 0, errors: 9.
