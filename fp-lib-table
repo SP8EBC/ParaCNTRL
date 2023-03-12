@@ -7,4 +7,5 @@
   (lib (name "LED")(type "KiCad")(uri "${KIPRJMOD}/LED/LED.pretty")(options "")(descr ""))
   (lib (name "w_conn_av")(type "KiCad")(uri "${KIPRJMOD}/w_conn_av.pretty")(options "")(descr ""))
   (lib (name "w_conn_d-sub")(type "KiCad")(uri "${KIPRJMOD}/w_conn_d-sub.pretty")(options "")(descr ""))
+  (lib (name "potentiometers")(type "KiCad")(uri "${KIPRJMOD}/tht_potentiometers/potentiometers.pretty")(options "")(descr ""))
 )
