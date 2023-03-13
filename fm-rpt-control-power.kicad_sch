@@ -740,7 +740,6 @@
     )
   )
 
-
   (junction (at 182.88 55.88) (diameter 0) (color 0 0 0 0)
     (uuid 37f0f09b-537b-4438-a5ae-3b34be6d848c)
   )
@@ -876,13 +875,6 @@
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid c5479726-5623-476f-863b-7b1be61c2403)
     (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 230.6502 55.8006 0)
-      (effects (font (size 1.27 1.27)) (justify left) hide)
-    )
-  )
-  (global_label "+5V" (shape input) (at 208.28 80.01 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left))
-    (uuid f7c3986d-5005-4ead-8518-9b1bcbc648bd)
-    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 214.5636 79.9306 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
