@@ -878,6 +878,13 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
+  (global_label "+5V" (shape input) (at 208.28 80.01 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid feb0a156-158a-4dbf-9068-1ce9b0786beb)
+    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 214.5636 79.9306 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+  )
 
   (symbol (lib_id "Device:C") (at 182.88 83.82 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
