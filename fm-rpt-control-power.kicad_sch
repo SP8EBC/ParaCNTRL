@@ -871,6 +871,15 @@
     (uuid e5bca976-329c-42a2-9d35-89f98a1a0618)
   )
 
+  (label "VDDA_UNFUSED" (at 174.625 55.88 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 3937b1bc-66f1-498a-8a59-0019ac841e4f)
+  )
+  (label "+5V_UNFUSED" (at 175.26 80.01 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid bfb39e6c-c6aa-4adf-a174-16a267fca7b1)
+  )
+
   (global_label "VDDA" (shape input) (at 223.52 55.88 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid c5479726-5623-476f-863b-7b1be61c2403)
