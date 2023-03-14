@@ -426,6 +426,10 @@
     [
       "78e4f606-ccca-418a-a2ce-b312716883d6",
       "Power"
+    ],
+    [
+      "6bb0c602-0afe-4390-b483-10a6e7c0c1f4",
+      "555Timer"
     ]
   ],
   "text_variables": {}
