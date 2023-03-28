@@ -457,6 +457,10 @@
     [
       "6bb0c602-0afe-4390-b483-10a6e7c0c1f4",
       "555Timer"
+    ],
+    [
+      "d2defd39-f28f-49c3-90d5-40db9856fc01",
+      "Connectors"
     ]
   ],
   "text_variables": {}
