@@ -12828,7 +12828,7 @@
   (symbol (lib_id "power:+5V") (at -103.505 133.35 270) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 7042c2bf-c126-4225-9f64-0dc9aa3c56b0)
-    (property "Reference" "#PWR?" (id 0) (at -107.315 133.35 0)
+    (property "Reference" "#PWR0114" (id 0) (at -107.315 133.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+5V" (id 1) (at -100.33 133.7838 90)
@@ -16559,7 +16559,7 @@
       (reference "#PWR0113") (unit 1) (value "+5V") (footprint "")
     )
     (path "/7042c2bf-c126-4225-9f64-0dc9aa3c56b0"
-      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
+      (reference "#PWR0114") (unit 1) (value "+5V") (footprint "")
     )
     (path "/98bd6600-a999-4809-9a50-976d8699345d"
       (reference "ACC1") (unit 1) (value "Conn_02x15_Odd_Even") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x15_P2.54mm_Vertical")
