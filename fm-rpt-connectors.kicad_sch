@@ -3304,8 +3304,8 @@
     (uuid ffa2d36d-589b-4724-8678-fdfa77ca965b)
   )
 
-  (text "R623/R624/R625 is used to configure what \nkind of interface duplex radios have.\n\nNormally place only R623, DO NOT place R624\nand use 0R as R625. This is when two radios\nare working as a part of full duplex port. \nIn such config RX radio must have separate\nCTCSS / Carrier detect output and single\nended line audio out (non bridged audio\npower amp like in Motorola GP300)\n\nIf controller should work as two direction\nsimplex-simplex repeater, with handheld \nradio on a 'duplex' port side, DO NOT place\nR623, place R624 and use about 1k as R625. \nThen connect RX audio output between pin7 \nand pin3 of J601 "
-    (at 128.27 168.275 0)
+  (text "R623/R624/R625 are used to configure what \nkind of interface duplex radios have.\n\nNormally place only R623, DO NOT place R624\nand use 0R as R625. This is when two radios\nare working as a part of full duplex port. \nIn such config RX radio must have separate\nCTCSS / Carrier detect, active high output\nand single ended, line level audio out \n(not a bridged audio power amp \nlike in Motorola GP300)\n\nIf controller should work as two direction\nsimplex-simplex repeater, with handheld \nradio on a 'duplex' port side, DO NOT place\nR623, place R624 and use about 1k as R625. \nThen connect RX audio output between pin7 \nand pin3 of J601. a SPK+ (positive DC offset\nin relation to radio ground) must be on\npin7 and SPK- (negative DC offset in relation\nto ground or no offset at all) must be on\npin7. Otherwise input blocking capacitor might\nexplode!"
+    (at 128.905 177.8 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 76443a27-70cd-4f17-bcca-8b8a2ce3a06d)
   )
