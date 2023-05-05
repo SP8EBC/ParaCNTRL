@@ -7,7 +7,7 @@
   (title_block
     (title "ParaCNTRL - FM repeater controller made of 74xx and analog")
     (date "2023-02-23")
-    (rev "A")
+    (rev "B")
     (company "ML Elektronika Mateusz Lubecki")
     (comment 1 "Power supply")
   )
@@ -739,6 +739,7 @@
       )
     )
   )
+
 
   (junction (at 182.88 55.88) (diameter 0) (color 0 0 0 0)
     (uuid 37f0f09b-537b-4438-a5ae-3b34be6d848c)

@@ -7,7 +7,7 @@
   (title_block
     (title "ParaCNTRL - FM repeater controller made of 74xx and analog")
     (date "2023-02-23")
-    (rev "A")
+    (rev "B")
     (company "ML Elektronika Mateusz Lubecki")
     (comment 1 "Roger Beep generator")
   )
@@ -1042,6 +1042,7 @@
     )
   )
 
+
   (junction (at 149.86 116.84) (diameter 0) (color 0 0 0 0)
     (uuid 168a7df3-eab2-4272-bdad-08d31ade7c1b)
   )
@@ -1630,7 +1631,7 @@
   (symbol (lib_id "Device:R") (at 155.956 104.14 270) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 3fb74370-f64e-4a5f-9da2-6da0f330762f)
-    (property "Reference" "R?" (id 0) (at 155.956 99.4242 90))
+    (property "Reference" "R202" (id 0) (at 155.956 99.4242 90))
     (property "Value" "2k7" (id 1) (at 155.956 101.9611 90))
     (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (id 2) (at 155.956 102.362 90)
       (effects (font (size 1.27 1.27)) hide)
@@ -1996,7 +1997,7 @@
   (symbol (lib_id "Device:R") (at 148.844 88.9 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid e71629f8-2ea8-4f3d-9a41-023f65ad2500)
-    (property "Reference" "R?" (id 0) (at 148.844 86.868 90))
+    (property "Reference" "R201" (id 0) (at 148.844 86.868 90))
     (property "Value" "6k2" (id 1) (at 148.844 91.186 90))
     (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (id 2) (at 148.844 87.122 90)
       (effects (font (size 1.27 1.27)) hide)
