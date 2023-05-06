@@ -4595,7 +4595,6 @@
     )
   )
 
-
   (junction (at 265.43 251.46) (diameter 0) (color 0 0 0 0)
     (uuid 04f00cd4-2def-49cd-8c5c-34ff99d452a2)
   )
@@ -12741,10 +12740,10 @@
       (reference "RN1") (unit 1) (value "10k") (footprint "Resistor_THT:R_Array_SIP9")
     )
     (path "/e4c6fdbb-fdc7-4ad4-a516-240d84cdc120/0626dd67-4b31-499c-9f3a-7687f4e48c3c"
-      (reference "RV201") (unit 1) (value "20k") (footprint "Potentiometer_SMD:Potentiometer_Bourns_3314J_Vertical")
+      (reference "RV201") (unit 1) (value "20k") (footprint "potentiometers:Potentiometer_SRpassives_1028F")
     )
     (path "/e4c6fdbb-fdc7-4ad4-a516-240d84cdc120/24269f3f-64b7-4b16-8e79-dcf23f936ebd"
-      (reference "RV202") (unit 1) (value "10k") (footprint "Potentiometer_SMD:Potentiometer_Bourns_3314J_Vertical")
+      (reference "RV202") (unit 1) (value "10k") (footprint "potentiometers:Potentiometer_SRpassives_1028F")
     )
     (path "/e4c6fdbb-fdc7-4ad4-a516-240d84cdc120/f3145559-978d-410c-83cb-12e8ab538496"
       (reference "RV203") (unit 1) (value "10k") (footprint "potentiometers:Potentiometer_SRpassives_1028F")

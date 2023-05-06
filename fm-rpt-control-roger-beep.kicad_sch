@@ -1042,7 +1042,6 @@
     )
   )
 
-
   (junction (at 149.86 116.84) (diameter 0) (color 0 0 0 0)
     (uuid 168a7df3-eab2-4272-bdad-08d31ade7c1b)
   )
@@ -1461,7 +1460,7 @@
     (uuid 0626dd67-4b31-499c-9f3a-7687f4e48c3c)
     (property "Reference" "RV201" (id 0) (at 140.716 84.1842 90))
     (property "Value" "20k" (id 1) (at 140.716 86.7211 90))
-    (property "Footprint" "Potentiometer_SMD:Potentiometer_Bourns_3314J_Vertical" (id 2) (at 140.716 88.9 0)
+    (property "Footprint" "potentiometers:Potentiometer_SRpassives_1028F" (id 2) (at 140.716 88.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 140.716 88.9 0)
@@ -1562,7 +1561,7 @@
     (uuid 24269f3f-64b7-4b16-8e79-dcf23f936ebd)
     (property "Reference" "RV202" (id 0) (at 165.608 99.4242 90))
     (property "Value" "10k" (id 1) (at 165.608 101.9611 90))
-    (property "Footprint" "Potentiometer_SMD:Potentiometer_Bourns_3314J_Vertical" (id 2) (at 165.608 104.14 0)
+    (property "Footprint" "potentiometers:Potentiometer_SRpassives_1028F" (id 2) (at 165.608 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 165.608 104.14 0)
