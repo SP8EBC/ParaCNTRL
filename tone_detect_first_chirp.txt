@@ -1,0 +1,6 @@
+test conditions
+
+RV301: 27k4 ohm
+C323: 1uF
+
+input level not less than about 650mV
