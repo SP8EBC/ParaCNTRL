@@ -461,6 +461,10 @@
     [
       "d2defd39-f28f-49c3-90d5-40db9856fc01",
       "Connectors"
+    ],
+    [
+      "c4cedb5a-0852-4d10-ad65-b93391ba7da5",
+      "ToneDetect"
     ]
   ],
   "text_variables": {}

@@ -6,7 +6,7 @@
 
   (title_block
     (title "ParaCNTRL - FM repeater controller made of 74xx and analog")
-    (date "2023-02-23")
+    (date "2023-05-07")
     (rev "B")
     (company "ML Elektronika Mateusz Lubecki")
     (comment 1 "Connectors and ground separation circuits")
@@ -3438,10 +3438,10 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-  (global_label "SPX_ENABLE_CNTRL" (shape input) (at 137.795 128.27 0) (fields_autoplaced)
+  (global_label "SPX_ENABLE" (shape input) (at 137.795 128.27 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 08c138c7-1b16-4b6e-8954-01bc8108b388)
-    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 158.7138 128.3494 0)
+    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 151.88 128.1906 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
