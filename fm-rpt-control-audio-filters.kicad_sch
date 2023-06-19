@@ -6,8 +6,8 @@
 
   (title_block
     (title "ParaCNTRL - FM repeater controller made of 74xx and analog")
-    (date "2023-05-07")
-    (rev "B")
+    (date "2023-06-17")
+    (rev "C")
     (company "ML Elektronika Mateusz Lubecki")
     (comment 1 "Analog audio filtering stuff")
   )
