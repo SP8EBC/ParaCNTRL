@@ -9444,6 +9444,22 @@
     (pin "3" (uuid 28694509-34c9-4c6f-bba0-907836ef62e4))
   )
 
+  (symbol (lib_id "and_or_xor:74HC08D") (at 170.18 87.63 0) (unit 4)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (uuid 7bc33526-a174-4440-8551-bf77b0128d4e)
+    (property "Reference" "U58" (id 0) (at 170.18 80.1202 0))
+    (property "Value" "74HC08D" (id 1) (at 170.18 82.6571 0))
+    (property "Footprint" "Package_SO:SO-14_3.9x8.65mm_P1.27mm" (id 2) (at 170.18 87.63 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/74HC_HCT08.pdf" (id 3) (at 170.18 87.63 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "11" (uuid fe381b74-45b6-4b1c-a8df-bd5a6ff125d1))
+    (pin "12" (uuid edccc8b7-689c-4b63-afd6-b5b0f02c6cfc))
+    (pin "13" (uuid 0a273270-9bb2-4f5c-beb4-af47bc96ab21))
+  )
+
   (symbol (lib_id "Switch:SW_Push") (at 277.495 133.985 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 7e8c1e73-6323-4c0d-9b57-fe4da6c90e33)
@@ -9475,22 +9491,6 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 24b6d5bb-ca0e-4712-86c3-9a54d7c04456))
-  )
-
-  (symbol (lib_id "and_or_xor:74HC32D") (at 170.18 87.63 0) (unit 4)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
-    (uuid 82165c80-a765-4460-84a2-154dcb632ff6)
-    (property "Reference" "U59" (id 0) (at 170.18 80.1202 0))
-    (property "Value" "74HC32D" (id 1) (at 170.18 82.6571 0))
-    (property "Footprint" "Package_SO:SO-14_3.9x8.65mm_P1.27mm" (id 2) (at 170.18 81.28 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/74HC_HCT32.pdf" (id 3) (at 170.18 92.71 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "11" (uuid feea9af2-e998-45d6-8a1e-4e08486a5acb))
-    (pin "12" (uuid e67cf9e7-1746-4856-8edd-555e3682799f))
-    (pin "13" (uuid ff3e9ca9-6dc0-4496-aebe-20f4a6d61445))
   )
 
   (symbol (lib_id "74xx:74AHC04") (at 167.64 165.1 0) (unit 5)
@@ -11697,6 +11697,9 @@
     (path "/c4cedb5a-0852-4d10-ad65-b93391ba7da5/7963ce7d-ebb3-4fdb-9d91-1e0e0c420f32"
       (reference "#GND0101") (unit 1) (value "GND") (footprint "")
     )
+    (path "/c4cedb5a-0852-4d10-ad65-b93391ba7da5/428a0152-7118-4dc7-a429-d1474530d981"
+      (reference "#GND0102") (unit 1) (value "GND") (footprint "")
+    )
     (path "/e4c6fdbb-fdc7-4ad4-a516-240d84cdc120/393f0e56-c2d5-4ea4-8463-50265bc94d2d"
       (reference "#GND0203") (unit 1) (value "GND") (footprint "")
     )
@@ -12403,7 +12406,7 @@
       (reference "IC702") (unit 2) (value "74HC107D") (footprint "Package_SO:SO-14_3.9x8.65mm_P1.27mm")
     )
     (path "/c4cedb5a-0852-4d10-ad65-b93391ba7da5/b79ec85b-74d5-4cef-9912-36616da6e356"
-      (reference "IC?") (unit 3) (value "74HC107D") (footprint "Package_SO:SO-14_3.9x8.65mm_P1.27mm")
+      (reference "IC702") (unit 3) (value "74HC107D") (footprint "Package_SO:SO-14_3.9x8.65mm_P1.27mm")
     )
     (path "/78e4f606-ccca-418a-a2ce-b312716883d6/94a507f2-dd02-4248-92ef-4340458ab03a"
       (reference "J80") (unit 1) (value "Jack-DC") (footprint "Connector_BarrelJack:BarrelJack_GCT_DCJ200-10-A_Horizontal")
@@ -13044,6 +13047,9 @@
     (path "/d96c56c2-781a-40b7-b14c-b1e009b595bd"
       (reference "U58") (unit 2) (value "74HC08D") (footprint "Package_SO:SO-14_3.9x8.65mm_P1.27mm")
     )
+    (path "/7bc33526-a174-4440-8551-bf77b0128d4e"
+      (reference "U58") (unit 4) (value "74HC08D") (footprint "Package_SO:SO-14_3.9x8.65mm_P1.27mm")
+    )
     (path "/4d2614bd-c48e-4dce-ae5b-fcc800687924"
       (reference "U58") (unit 5) (value "74HC08D") (footprint "Package_SO:SO-14_3.9x8.65mm_P1.27mm")
     )
@@ -13055,9 +13061,6 @@
     )
     (path "/070ddac1-5eb5-4255-adad-f8a78276373e"
       (reference "U59") (unit 3) (value "74HC32D") (footprint "Package_SO:SO-14_3.9x8.65mm_P1.27mm")
-    )
-    (path "/82165c80-a765-4460-84a2-154dcb632ff6"
-      (reference "U59") (unit 4) (value "74HC32D") (footprint "Package_SO:SO-14_3.9x8.65mm_P1.27mm")
     )
     (path "/fa4c32a4-8dc8-40b7-b74c-b3f409f34c8b"
       (reference "U59") (unit 5) (value "74HC32D") (footprint "Package_SO:SO-14_3.9x8.65mm_P1.27mm")
